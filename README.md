@@ -22,7 +22,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,bash,powershell,vim,html,css,js,tailwind,bootstrap,npm,react,nodejs,express,ansible,docker,kubernetes,nginx,postman,git,github,mysql,postgres,sqlite,mongodb,firebase,azure,debian,linux,ubuntu,notion,ai,ps,pr,ae,xd,figma,blender,arduino,vscode,latex,tensorflow" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,bash,powershell,html,css,js,tailwind,bootstrap,npm,react,nodejs,express,docker,postman,git,github,mysql,postgres,sqlite,mongodb,firebase,azure,debian,linux,ubuntu,notion,ai,ps,pr,ae,xd,figma,blender,arduino,vscode,latex,tensorflow" alt="Skill Icons" />
   </a>
 </p>
 
