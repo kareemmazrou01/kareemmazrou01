@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Rez4-3yz/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=💻+Machine+Learning+Engineer; 💻+Data+Science;📦+Web+Developer;🎬+Video+Editor;&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=💻+Machine+Learning+Engineer;📦+Web+Developer;🎬+Video+Editor;&center=true&width=500&height=50">
   </a>
 </div>
 
